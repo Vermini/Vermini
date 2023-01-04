@@ -1,3 +1,2 @@
-### Hi there 👋
-
-Opis profilu
+### Opis profilu
+krótki opis. =)
